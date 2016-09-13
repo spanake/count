@@ -1,0 +1,11 @@
+#divCounter {
+  font-size: 20px;
+  color: blue;
+}
+
+#btnCounter {
+  background: red;
+  font-size: 19px;
+  text-shadow: true;
+  border-bottom-color: blue;
+}
